@@ -10,4 +10,4 @@
   Usage explained in code
 </p>
 
-  <code>msg.ps1 "Your Message Here"</code>
+  <code>./msg.ps1 "Your Message Here"</code>
