@@ -8,4 +8,5 @@
     <li>IP address</li>
   </ol>
   Usage explained in code
+  msg.ps1 "Your Message Here"
 </p>
